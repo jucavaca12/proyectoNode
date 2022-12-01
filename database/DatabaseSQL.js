@@ -1,4 +1,4 @@
-import { Sequelize } from "sequelize";
+import {Sequelize } from "sequelize";
 
 const dataBase = new Sequelize ('crudFullstack', 'root','' , {
     host:'localhost', 
